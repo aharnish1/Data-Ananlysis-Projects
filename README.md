@@ -92,21 +92,21 @@ Netflix/
 
 ## Future Enhancements
 
-Build an interactive dashboard using Power BI or Tableau
+- Build an interactive dashboard using Power BI or Tableau
 
-Perform sentiment analysis on content descriptions
+- Perform sentiment analysis on content descriptions
 
-Apply machine learning for content recommendation
+- Apply machine learning for content recommendation
 
-Forecast Netflix content growth using time-series models
+- Forecast Netflix content growth using time-series models
 
 ---
 
 ## Author
 
-Aharnish Parekar
-Aspiring Data Analyst
-Skills: Python | SQL | Power BI | Data Analysis
+**Aharnish Parekar**
+- Aspiring Data Analyst
+- Skills: Python | SQL | Power BI | Data Analysis
 
 ---
 
