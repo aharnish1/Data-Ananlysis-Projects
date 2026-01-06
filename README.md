@@ -104,7 +104,7 @@ Netflix/
 
 ## Author
 
-**Aharnish Parekar**
+- **Aharnish Parekar**
 - Aspiring Data Analyst
 - Skills: Python | SQL | Power BI | Data Analysis
 
@@ -112,6 +112,6 @@ Netflix/
 
 ## Acknowledgements
 
-Netflix Movies and TV Shows dataset from Kaggle
+- Netflix Movies and TV Shows dataset from Kaggle
 
-Open-source Python libraries
+- Open-source Python libraries
